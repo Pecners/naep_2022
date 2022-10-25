@@ -34,14 +34,18 @@ change |>
   geom_segment(arrow = arrow(length = unit(.2, "cm"), type = "closed")) +
   geom_text(aes(y = `2022`, 
                 label = ifelse(diff < 0, diff, paste0("+", diff)),
-                hjust = ifelse(diff < 0, 1.5, -.5))) +
+                hjust = ifelse(diff < 0, 1.25, -.25)),
+            size = 5) +
   coord_flip() +
   scale_color_identity() +
-  theme(panel.grid.minor.x = element_blank(),
+  theme(text = element_text(size = 24),
+        axis.title.x = element_text(margin = margin(t = 10)),
+        panel.grid.minor.x = element_blank(),
         panel.grid.major.y = element_line(linetype = 3)) +
   labs(y = "Score Change (2019 to 2022)",
        x = "Jurisdiction (orderd by 2022 score)",
        title = "Score change by Jurisdiction—4th Grade Reading")
 
-ggsave("plots/4th_grade_reading_all_students.png", bg = "white")
+ggsave("plots/4th_grade_reading_all_students.png", bg = "white",
+       width = 12, height = 12)
 

@@ -59,6 +59,8 @@ gg |>
        x = "Jurisdiction (orderd by 2022 gap)",
        title = "Black-White gap change by Jurisdiction—8th Grade Mathematics")
 
+ggsave("plots/8th_grade_math_bw_gap.png", bg = "white")
+
 
 gap |> 
   select(year, jurisdiction, diff) |> 
@@ -82,3 +84,4 @@ gap |>
   labs(y = "Gap Change (2019 to 2022)",
        x = "Jurisdiction (orderd by 2022 gap)",
        title = "Black-White gap change by Jurisdiction—8th Grade Mathematics")
+
