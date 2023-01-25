@@ -90,7 +90,7 @@ math_8th <- black |>
        y = "Average scale score for Black students",
        x = "")
 
-plot_grid(reading_4th, math_8th, )
+plot_grid(reading_4th, math_8th)
 
 ggsave("plots/black_students_comps.png", bg = "white", width = 12, h = 6)
 
