@@ -1,57 +1,86 @@
-year,jurisdiction,all_students,average_scale_score
-2022,National,All students,217
-2022,Albuquerque,All students,205
-2022,Atlanta,All students,205
-2022,Austin,All students,220
-2022,Baltimore City,All students,185
-2022,Boston,All students,210
-2022,Charlotte,All students,215
-2022,Chicago,All students,205
-2022,Clark County (NV),All students,208
-2022,Cleveland,All students,180
-2022,Dallas,All students,203
-2022,Denver,All students,212
-2022,Detroit,All students,176
-2022,District of Columbia (DCPS),All students,214
-2022,Duval County (FL),All students,215
-2022,Fort Worth (TX),All students,200
-2022,Fresno,All students,—
-2022,Guilford County (NC),All students,211
-2022,Hillsborough County (FL),All students,226
-2022,Houston,All students,203
-2022,Jefferson County (KY),All students,210
-2022,Los Angeles,All students,207
-2022,Miami-Dade,All students,224
-2022,Milwaukee,All students,187
-2022,New York City,All students,211
-2022,Philadelphia,All students,195
-2022,San Diego,All students,222
-2022,Shelby County (TN),All students,197
-2019,National,All students,220
-2019,Albuquerque,All students,208
-2019,Atlanta,All students,214
-2019,Austin,All students,217
-2019,Baltimore City,All students,193
-2019,Boston,All students,214
-2019,Charlotte,All students,225
-2019,Chicago,All students,208
-2019,Clark County (NV),All students,216
-2019,Cleveland,All students,196
-2019,Dallas,All students,203
-2019,Denver,All students,217
-2019,Detroit,All students,183
-2019,District of Columbia (DCPS),All students,214
-2019,Duval County (FL),All students,222
-2019,Fort Worth (TX),All students,204
-2019,Fresno,All students,204
-2019,Guilford County (NC),All students,218
-2019,Hillsborough County (FL),All students,224
-2019,Houston,All students,204
-2019,Jefferson County (KY),All students,214
-2019,Los Angeles,All students,205
-2019,Miami-Dade,All students,225
-2019,Milwaukee,All students,190
-2019,New York City,All students,212
-2019,Philadelphia,All students,197
-2019,San Diego,All students,223
-2019,Shelby County (TN),All students,205
+year,jurisdiction,all_students,average_scale_score,x,x_2,x_3,x_4,x_5,x_6
+2024,National,All students,214,NA,NA,NA,NA,NA,NA
+2024,Albuquerque,All students,201,NA,NA,NA,NA,NA,NA
+2024,Atlanta,All students,212,NA,NA,NA,NA,NA,NA
+2024,Austin,All students,214,NA,NA,NA,NA,NA,NA
+2024,Baltimore City,All students,186,NA,NA,NA,NA,NA,NA
+2024,Boston,All students,214,NA,NA,NA,NA,NA,NA
+2024,Charlotte,All students,214,NA,NA,NA,NA,NA,NA
+2024,Chicago,All students,203,NA,NA,NA,NA,NA,NA
+2024,Clark County (NV),All students,210,NA,NA,NA,NA,NA,NA
+2024,Cleveland,All students,184,NA,NA,NA,NA,NA,NA
+2024,Dallas,All students,202,NA,NA,NA,NA,NA,NA
+2024,Denver,All students,216,NA,NA,NA,NA,NA,NA
+2024,Detroit,All students,174,NA,NA,NA,NA,NA,NA
+2024,District of Columbia (DCPS),All students,216,NA,NA,NA,NA,NA,NA
+2024,Duval County (FL),All students,211,NA,NA,NA,NA,NA,NA
+2024,Fort Worth (TX),All students,198,NA,NA,NA,NA,NA,NA
+2024,Fresno,All students,—,NA,NA,NA,NA,NA,NA
+2024,Guilford County (NC),All students,212,NA,NA,NA,NA,NA,NA
+2024,Hillsborough County (FL),All students,219,NA,NA,NA,NA,NA,NA
+2024,Houston,All students,206,NA,NA,NA,NA,NA,NA
+2024,Jefferson County (KY),All students,209,NA,NA,NA,NA,NA,NA
+2024,Los Angeles,All students,206,NA,NA,NA,NA,NA,NA
+2024,Miami-Dade,All students,218,NA,NA,NA,NA,NA,NA
+2024,Milwaukee,All students,179,NA,NA,NA,NA,NA,NA
+2024,New York City,All students,209,NA,NA,NA,NA,NA,NA
+2024,Orange County (FL),All students,218,NA,NA,NA,NA,NA,NA
+2024,Philadelphia,All students,195,NA,NA,NA,NA,NA,NA
+2024,San Diego,All students,223,NA,NA,NA,NA,NA,NA
+2024,Shelby County (TN),All students,—,NA,NA,NA,NA,NA,NA
+2022,National,All students,216,NA,NA,NA,NA,NA,NA
+2022,Albuquerque,All students,205,NA,NA,NA,NA,NA,NA
+2022,Atlanta,All students,205,NA,NA,NA,NA,NA,NA
+2022,Austin,All students,220,NA,NA,NA,NA,NA,NA
+2022,Baltimore City,All students,185,NA,NA,NA,NA,NA,NA
+2022,Boston,All students,210,NA,NA,NA,NA,NA,NA
+2022,Charlotte,All students,215,NA,NA,NA,NA,NA,NA
+2022,Chicago,All students,205,NA,NA,NA,NA,NA,NA
+2022,Clark County (NV),All students,208,NA,NA,NA,NA,NA,NA
+2022,Cleveland,All students,180,NA,NA,NA,NA,NA,NA
+2022,Dallas,All students,203,NA,NA,NA,NA,NA,NA
+2022,Denver,All students,212,NA,NA,NA,NA,NA,NA
+2022,Detroit,All students,176,NA,NA,NA,NA,NA,NA
+2022,District of Columbia (DCPS),All students,214,NA,NA,NA,NA,NA,NA
+2022,Duval County (FL),All students,215,NA,NA,NA,NA,NA,NA
+2022,Fort Worth (TX),All students,200,NA,NA,NA,NA,NA,NA
+2022,Fresno,All students,—,NA,NA,NA,NA,NA,NA
+2022,Guilford County (NC),All students,211,NA,NA,NA,NA,NA,NA
+2022,Hillsborough County (FL),All students,226,NA,NA,NA,NA,NA,NA
+2022,Houston,All students,203,NA,NA,NA,NA,NA,NA
+2022,Jefferson County (KY),All students,210,NA,NA,NA,NA,NA,NA
+2022,Los Angeles,All students,207,NA,NA,NA,NA,NA,NA
+2022,Miami-Dade,All students,224,NA,NA,NA,NA,NA,NA
+2022,Milwaukee,All students,187,NA,NA,NA,NA,NA,NA
+2022,New York City,All students,211,NA,NA,NA,NA,NA,NA
+2022,Philadelphia,All students,195,NA,NA,NA,NA,NA,NA
+2022,San Diego,All students,222,NA,NA,NA,NA,NA,NA
+2022,Shelby County (TN),All students,197,NA,NA,NA,NA,NA,NA
+2019,National,All students,220,NA,NA,NA,NA,NA,NA
+2019,Albuquerque,All students,208,NA,NA,NA,NA,NA,NA
+2019,Atlanta,All students,214,NA,NA,NA,NA,NA,NA
+2019,Austin,All students,217,NA,NA,NA,NA,NA,NA
+2019,Baltimore City,All students,193,NA,NA,NA,NA,NA,NA
+2019,Boston,All students,214,NA,NA,NA,NA,NA,NA
+2019,Charlotte,All students,225,NA,NA,NA,NA,NA,NA
+2019,Chicago,All students,208,NA,NA,NA,NA,NA,NA
+2019,Clark County (NV),All students,216,NA,NA,NA,NA,NA,NA
+2019,Cleveland,All students,196,NA,NA,NA,NA,NA,NA
+2019,Dallas,All students,203,NA,NA,NA,NA,NA,NA
+2019,Denver,All students,217,NA,NA,NA,NA,NA,NA
+2019,Detroit,All students,183,NA,NA,NA,NA,NA,NA
+2019,District of Columbia (DCPS),All students,214,NA,NA,NA,NA,NA,NA
+2019,Duval County (FL),All students,222,NA,NA,NA,NA,NA,NA
+2019,Fort Worth (TX),All students,204,NA,NA,NA,NA,NA,NA
+2019,Fresno,All students,204,NA,NA,NA,NA,NA,NA
+2019,Guilford County (NC),All students,218,NA,NA,NA,NA,NA,NA
+2019,Hillsborough County (FL),All students,224,NA,NA,NA,NA,NA,NA
+2019,Houston,All students,204,NA,NA,NA,NA,NA,NA
+2019,Jefferson County (KY),All students,214,NA,NA,NA,NA,NA,NA
+2019,Los Angeles,All students,205,NA,NA,NA,NA,NA,NA
+2019,Miami-Dade,All students,225,NA,NA,NA,NA,NA,NA
+2019,Milwaukee,All students,190,NA,NA,NA,NA,NA,NA
+2019,New York City,All students,212,NA,NA,NA,NA,NA,NA
+2019,Philadelphia,All students,197,NA,NA,NA,NA,NA,NA
+2019,San Diego,All students,223,NA,NA,NA,NA,NA,NA
+2019,Shelby County (TN),All students,205,NA,NA,NA,NA,NA,NA

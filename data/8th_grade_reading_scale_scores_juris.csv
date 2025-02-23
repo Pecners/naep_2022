@@ -1,337 +1,496 @@
-﻿Year,Jurisdiction,"Race/ethnicity used to report trends, school-reported",Average scale score
-2022,National,White,268
-,,Black,244
-,,Hispanic,251
-,,Asian/Pacific Islander,281
-,,American Indian/Alaska Native,246
-,,Two or more races,265
-,Albuquerque,White,274
-,,Black,‡
-,,Hispanic,241
-,,Asian/Pacific Islander,‡
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Atlanta,White,296
-,,Black,243
-,,Hispanic,‡
-,,Asian/Pacific Islander,‡
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Austin,White,273
-,,Black,‡
-,,Hispanic,242
-,,Asian/Pacific Islander,‡
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Baltimore City,White,‡
-,,Black,237
-,,Hispanic,240
-,,Asian/Pacific Islander,‡
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Boston,White,286
-,,Black,242
-,,Hispanic,245
-,,Asian/Pacific Islander,281
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Charlotte,White,277
-,,Black,245
-,,Hispanic,248
-,,Asian/Pacific Islander,294
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Chicago,White,270
-,,Black,240
-,,Hispanic,254
-,,Asian/Pacific Islander,269
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Clark County (NV),White,268
-,,Black,241
-,,Hispanic,250
-,,Asian/Pacific Islander,276
-,,American Indian/Alaska Native,‡
-,,Two or more races,267
-,Cleveland,White,251
-,,Black,231
-,,Hispanic,228
-,,Asian/Pacific Islander,‡
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Dallas,White,‡
-,,Black,232
-,,Hispanic,241
-,,Asian/Pacific Islander,‡
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Denver,White,284
-,,Black,244
-,,Hispanic,243
-,,Asian/Pacific Islander,‡
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Detroit,White,‡
-,,Black,225
-,,Hispanic,236
-,,Asian/Pacific Islander,‡
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,District of Columbia (DCPS),White,292
-,,Black,241
-,,Hispanic,241
-,,Asian/Pacific Islander,‡
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Duval County (FL),White,273
-,,Black,246
-,,Hispanic,250
-,,Asian/Pacific Islander,‡
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Fort Worth (TX),White,271
-,,Black,233
-,,Hispanic,240
-,,Asian/Pacific Islander,‡
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Fresno,White,—
-,,Black,—
-,,Hispanic,—
-,,Asian/Pacific Islander,—
-,,American Indian/Alaska Native,—
-,,Two or more races,—
-,Guilford County (NC),White,266
-,,Black,240
-,,Hispanic,249
-,,Asian/Pacific Islander,‡
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Hillsborough County (FL),White,268
-,,Black,243
-,,Hispanic,255
-,,Asian/Pacific Islander,‡
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Houston,White,275
-,,Black,236
-,,Hispanic,244
-,,Asian/Pacific Islander,‡
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Jefferson County (KY),White,266
-,,Black,238
-,,Hispanic,251
-,,Asian/Pacific Islander,‡
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Los Angeles,White,284
-,,Black,253
-,,Hispanic,250
-,,Asian/Pacific Islander,278
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Miami-Dade,White,285
-,,Black,255
-,,Hispanic,262
-,,Asian/Pacific Islander,‡
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Milwaukee,White,266
-,,Black,227
-,,Hispanic,242
-,,Asian/Pacific Islander,259
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,New York City,White,278
-,,Black,242
-,,Hispanic,244
-,,Asian/Pacific Islander,275
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Philadelphia,White,255
-,,Black,238
-,,Hispanic,231
-,,Asian/Pacific Islander,275
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,San Diego,White,278
-,,Black,‡
-,,Hispanic,249
-,,Asian/Pacific Islander,279
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Shelby County (TN),White,‡
-,,Black,240
-,,Hispanic,244
-,,Asian/Pacific Islander,‡
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-2019,National,White,272
-,,Black,244
-,,Hispanic,252
-,,Asian/Pacific Islander,281
-,,American Indian/Alaska Native,248
-,,Two or more races,267
-,Albuquerque,White,267
-,,Black,‡
-,,Hispanic,243
-,,Asian/Pacific Islander,‡
-,,American Indian/Alaska Native,232
-,,Two or more races,‡
-,Atlanta,White,291
-,,Black,247
-,,Hispanic,252
-,,Asian/Pacific Islander,‡
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Austin,White,280
-,,Black,237
-,,Hispanic,244
-,,Asian/Pacific Islander,‡
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Baltimore City,White,274
-,,Black,237
-,,Hispanic,233
-,,Asian/Pacific Islander,‡
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Boston,White,282
-,,Black,250
-,,Hispanic,246
-,,Asian/Pacific Islander,282
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Charlotte,White,282
-,,Black,249
-,,Hispanic,254
-,,Asian/Pacific Islander,279
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Chicago,White,282
-,,Black,246
-,,Hispanic,252
-,,Asian/Pacific Islander,271
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Clark County (NV),White,270
-,,Black,241
-,,Hispanic,250
-,,Asian/Pacific Islander,272
-,,American Indian/Alaska Native,‡
-,,Two or more races,261
-,Cleveland,White,254
-,,Black,239
-,,Hispanic,240
-,,Asian/Pacific Islander,‡
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Dallas,White,‡
-,,Black,234
-,,Hispanic,242
-,,Asian/Pacific Islander,‡
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Denver,White,286
-,,Black,243
-,,Hispanic,246
-,,Asian/Pacific Islander,‡
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Detroit,White,‡
-,,Black,229
-,,Hispanic,245
-,,Asian/Pacific Islander,‡
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,District of Columbia (DCPS),White,300
-,,Black,239
-,,Hispanic,247
-,,Asian/Pacific Islander,‡
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Duval County (FL),White,267
-,,Black,248
-,,Hispanic,256
-,,Asian/Pacific Islander,‡
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Fort Worth (TX),White,262
-,,Black,232
-,,Hispanic,243
-,,Asian/Pacific Islander,‡
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Fresno,White,253
-,,Black,231
-,,Hispanic,240
-,,Asian/Pacific Islander,255
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Guilford County (NC),White,273
-,,Black,244
-,,Hispanic,256
-,,Asian/Pacific Islander,272
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Hillsborough County (FL),White,275
-,,Black,247
-,,Hispanic,251
-,,Asian/Pacific Islander,‡
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Houston,White,276
-,,Black,239
-,,Hispanic,247
-,,Asian/Pacific Islander,‡
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Jefferson County (KY),White,273
-,,Black,239
-,,Hispanic,261
-,,Asian/Pacific Islander,‡
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Los Angeles,White,272
-,,Black,236
-,,Hispanic,244
-,,Asian/Pacific Islander,274
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Miami-Dade,White,276
-,,Black,246
-,,Hispanic,264
-,,Asian/Pacific Islander,‡
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Milwaukee,White,267
-,,Black,228
-,,Hispanic,248
-,,Asian/Pacific Islander,246
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,New York City,White,275
-,,Black,242
-,,Hispanic,249
-,,Asian/Pacific Islander,267
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
-,Philadelphia,White,260
-,,Black,238
-,,Hispanic,233
-,,Asian/Pacific Islander,266
-,,American Indian/Alaska Native,‡
-,,Two or more races,240
-,San Diego,White,280
-,,Black,245
-,,Hispanic,254
-,,Asian/Pacific Islander,276
-,,American Indian/Alaska Native,‡
-,,Two or more races,277
-,Shelby County (TN),White,274
-,,Black,244
-,,Hispanic,254
-,,Asian/Pacific Islander,‡
-,,American Indian/Alaska Native,‡
-,,Two or more races,‡
+﻿Year,Jurisdiction,Average scale score,"Race/ethnicity used to report trends, school-reported"
+2024,Albuquerque                   ,‡,American Indian/Alaska Native
+,Atlanta                       ,‡,American Indian/Alaska Native
+,Austin                        ,‡,American Indian/Alaska Native
+,Baltimore                     ,‡,American Indian/Alaska Native
+,Boston                        ,‡,American Indian/Alaska Native
+,Charlotte                     ,‡,American Indian/Alaska Native
+,Chicago                       ,‡,American Indian/Alaska Native
+,Clark County (NV)             ,‡,American Indian/Alaska Native
+,Cleveland                     ,‡,American Indian/Alaska Native
+,Dallas                        ,‡,American Indian/Alaska Native
+,Denver                        ,‡,American Indian/Alaska Native
+,Detroit                       ,‡,American Indian/Alaska Native
+,District of Columbia (DCPS)   ,‡,American Indian/Alaska Native
+,Duval County (FL)             ,‡,American Indian/Alaska Native
+,Fort Worth                    ,‡,American Indian/Alaska Native
+,Guilford County (NC)          ,‡,American Indian/Alaska Native
+,Hillsborough County (FL)      ,‡,American Indian/Alaska Native
+,Houston                       ,‡,American Indian/Alaska Native
+,Jefferson County (KY)         ,‡,American Indian/Alaska Native
+,Los Angeles                   ,‡,American Indian/Alaska Native
+,Miami                         ,‡,American Indian/Alaska Native
+,Milwaukee                     ,‡,American Indian/Alaska Native
+,New York City                 ,‡,American Indian/Alaska Native
+,Orange County (FL)            ,‡,American Indian/Alaska Native
+,Philadelphia                  ,‡,American Indian/Alaska Native
+,San Diego                     ,‡,American Indian/Alaska Native
+,Albuquerque                   ,‡,Asian/Pacific Islander
+,Atlanta                       ,‡,Asian/Pacific Islander
+,Austin                        ,‡,Asian/Pacific Islander
+,Baltimore                     ,‡,Asian/Pacific Islander
+,Boston                        ,‡,Asian/Pacific Islander
+,Charlotte                     ,285.871281,Asian/Pacific Islander
+,Chicago                       ,‡,Asian/Pacific Islander
+,Clark County (NV)             ,262.764595,Asian/Pacific Islander
+,Cleveland                     ,‡,Asian/Pacific Islander
+,Dallas                        ,‡,Asian/Pacific Islander
+,Denver                        ,‡,Asian/Pacific Islander
+,Detroit                       ,‡,Asian/Pacific Islander
+,District of Columbia (DCPS)   ,‡,Asian/Pacific Islander
+,Duval County (FL)             ,‡,Asian/Pacific Islander
+,Fort Worth                    ,‡,Asian/Pacific Islander
+,Guilford County (NC)          ,‡,Asian/Pacific Islander
+,Hillsborough County (FL)      ,‡,Asian/Pacific Islander
+,Houston                       ,279.811179,Asian/Pacific Islander
+,Jefferson County (KY)         ,‡,Asian/Pacific Islander
+,Los Angeles                   ,293.260941,Asian/Pacific Islander
+,Miami                         ,‡,Asian/Pacific Islander
+,Milwaukee                     ,250.901671,Asian/Pacific Islander
+,New York City                 ,274.082319,Asian/Pacific Islander
+,Orange County (FL)            ,‡,Asian/Pacific Islander
+,Philadelphia                  ,270.66796,Asian/Pacific Islander
+,San Diego                     ,278.800156,Asian/Pacific Islander
+,Albuquerque                   ,‡,Black
+,Atlanta                       ,241.968686,Black
+,Austin                        ,‡,Black
+,Baltimore                     ,238.214145,Black
+,Boston                        ,238.814776,Black
+,Charlotte                     ,245.63988,Black
+,Chicago                       ,243.588204,Black
+,Clark County (NV)             ,239.20869,Black
+,Cleveland                     ,230.231412,Black
+,Dallas                        ,236.416774,Black
+,Denver                        ,253.228784,Black
+,Detroit                       ,228.167494,Black
+,District of Columbia (DCPS)   ,240.657336,Black
+,Duval County (FL)             ,242.933595,Black
+,Fort Worth                    ,231.950524,Black
+,Guilford County (NC)          ,239.349501,Black
+,Hillsborough County (FL)      ,242.479112,Black
+,Houston                       ,239.948794,Black
+,Jefferson County (KY)         ,233.380858,Black
+,Los Angeles                   ,243.611862,Black
+,Miami                         ,244.078499,Black
+,Milwaukee                     ,226.471374,Black
+,New York City                 ,246.417105,Black
+,Orange County (FL)            ,240.567189,Black
+,Philadelphia                  ,235.861622,Black
+,San Diego                     ,‡,Black
+,Albuquerque                   ,236.54053,Hispanic
+,Atlanta                       ,249.076911,Hispanic
+,Austin                        ,236.207519,Hispanic
+,Baltimore                     ,229.569643,Hispanic
+,Boston                        ,237.503061,Hispanic
+,Charlotte                     ,238.966878,Hispanic
+,Chicago                       ,253.736011,Hispanic
+,Clark County (NV)             ,243.075991,Hispanic
+,Cleveland                     ,226.911603,Hispanic
+,Dallas                        ,242.013641,Hispanic
+,Denver                        ,243.441147,Hispanic
+,Detroit                       ,233.130216,Hispanic
+,District of Columbia (DCPS)   ,243.273294,Hispanic
+,Duval County (FL)             ,232.54454,Hispanic
+,Fort Worth                    ,235.979369,Hispanic
+,Guilford County (NC)          ,246.33797,Hispanic
+,Hillsborough County (FL)      ,247.136968,Hispanic
+,Houston                       ,242.670415,Hispanic
+,Jefferson County (KY)         ,240.478131,Hispanic
+,Los Angeles                   ,241.288,Hispanic
+,Miami                         ,256.424716,Hispanic
+,Milwaukee                     ,246.239874,Hispanic
+,New York City                 ,243.30514,Hispanic
+,Orange County (FL)            ,246.267261,Hispanic
+,Philadelphia                  ,227.738836,Hispanic
+,San Diego                     ,248.535776,Hispanic
+,Albuquerque                   ,‡,Two or More Races
+,Atlanta                       ,‡,Two or More Races
+,Austin                        ,‡,Two or More Races
+,Baltimore                     ,‡,Two or More Races
+,Boston                        ,‡,Two or More Races
+,Charlotte                     ,‡,Two or More Races
+,Chicago                       ,‡,Two or More Races
+,Clark County (NV)             ,269.468109,Two or More Races
+,Cleveland                     ,‡,Two or More Races
+,Dallas                        ,‡,Two or More Races
+,Denver                        ,‡,Two or More Races
+,Detroit                       ,‡,Two or More Races
+,District of Columbia (DCPS)   ,‡,Two or More Races
+,Duval County (FL)             ,‡,Two or More Races
+,Fort Worth                    ,‡,Two or More Races
+,Guilford County (NC)          ,‡,Two or More Races
+,Hillsborough County (FL)      ,‡,Two or More Races
+,Houston                       ,‡,Two or More Races
+,Jefferson County (KY)         ,‡,Two or More Races
+,Los Angeles                   ,‡,Two or More Races
+,Miami                         ,‡,Two or More Races
+,Milwaukee                     ,‡,Two or More Races
+,New York City                 ,‡,Two or More Races
+,Orange County (FL)            ,‡,Two or More Races
+,Philadelphia                  ,‡,Two or More Races
+,San Diego                     ,273.758931,Two or More Races
+,Albuquerque                   ,272,White
+,Atlanta                       ,292,White
+,Austin                        ,278,White
+,Baltimore                     ,‡,White
+,Boston                        ,280,White
+,Charlotte                     ,276,White
+,Chicago                       ,277,White
+,Clark County (NV)             ,262,White
+,Cleveland                     ,237,White
+,Dallas                        ,‡,White
+,Denver                        ,285,White
+,Detroit                       ,‡,White
+,District of Columbia (DCPS)   ,306,White
+,Duval County (FL)             ,258,White
+,Fort Worth                    ,260,White
+,Guilford County (NC)          ,273,White
+,Hillsborough County (FL)      ,266,White
+,Houston                       ,271,White
+,Jefferson County (KY)         ,268,White
+,Los Angeles                   ,266,White
+,Miami                         ,260,White
+,Milwaukee                     ,272,White
+,New York City                 ,270,White
+,Orange County (FL)            ,259,White
+,Philadelphia                  ,258,White
+,San Diego                     ,284,White
+,Nation,243,Black
+,Nation,245,Hispanic
+,Nation,266,White
+2022,National,268,White
+,,244,Black
+,,251,Hispanic
+,,281,Asian/Pacific Islander
+,,246,American Indian/Alaska Native
+,,265,Two or more races
+,Albuquerque,274,White
+,,‡,Black
+,,241,Hispanic
+,,‡,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Atlanta,296,White
+,,243,Black
+,,‡,Hispanic
+,,‡,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Austin,273,White
+,,‡,Black
+,,242,Hispanic
+,,‡,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Baltimore City,‡,White
+,,237,Black
+,,240,Hispanic
+,,‡,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Boston,286,White
+,,242,Black
+,,245,Hispanic
+,,281,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Charlotte,277,White
+,,245,Black
+,,248,Hispanic
+,,294,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Chicago,270,White
+,,240,Black
+,,254,Hispanic
+,,269,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Clark County (NV),268,White
+,,241,Black
+,,250,Hispanic
+,,276,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,267,Two or more races
+,Cleveland,251,White
+,,231,Black
+,,228,Hispanic
+,,‡,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Dallas,‡,White
+,,232,Black
+,,241,Hispanic
+,,‡,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Denver,284,White
+,,244,Black
+,,243,Hispanic
+,,‡,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Detroit,‡,White
+,,225,Black
+,,236,Hispanic
+,,‡,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,District of Columbia (DCPS),292,White
+,,241,Black
+,,241,Hispanic
+,,‡,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Duval County (FL),273,White
+,,246,Black
+,,250,Hispanic
+,,‡,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Fort Worth (TX),271,White
+,,233,Black
+,,240,Hispanic
+,,‡,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Fresno,—,White
+,,—,Black
+,,—,Hispanic
+,,—,Asian/Pacific Islander
+,,—,American Indian/Alaska Native
+,,—,Two or more races
+,Guilford County (NC),266,White
+,,240,Black
+,,249,Hispanic
+,,‡,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Hillsborough County (FL),268,White
+,,243,Black
+,,255,Hispanic
+,,‡,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Houston,275,White
+,,236,Black
+,,244,Hispanic
+,,‡,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Jefferson County (KY),266,White
+,,238,Black
+,,251,Hispanic
+,,‡,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Los Angeles,284,White
+,,253,Black
+,,250,Hispanic
+,,278,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Miami-Dade,285,White
+,,255,Black
+,,262,Hispanic
+,,‡,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Milwaukee,266,White
+,,227,Black
+,,242,Hispanic
+,,259,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,New York City,278,White
+,,242,Black
+,,244,Hispanic
+,,275,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Philadelphia,255,White
+,,238,Black
+,,231,Hispanic
+,,275,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,San Diego,278,White
+,,‡,Black
+,,249,Hispanic
+,,279,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Shelby County (TN),‡,White
+,,240,Black
+,,244,Hispanic
+,,‡,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+2019,National,272,White
+,,244,Black
+,,252,Hispanic
+,,281,Asian/Pacific Islander
+,,248,American Indian/Alaska Native
+,,267,Two or more races
+,Albuquerque,267,White
+,,‡,Black
+,,243,Hispanic
+,,‡,Asian/Pacific Islander
+,,232,American Indian/Alaska Native
+,,‡,Two or more races
+,Atlanta,291,White
+,,247,Black
+,,252,Hispanic
+,,‡,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Austin,280,White
+,,237,Black
+,,244,Hispanic
+,,‡,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Baltimore City,274,White
+,,237,Black
+,,233,Hispanic
+,,‡,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Boston,282,White
+,,250,Black
+,,246,Hispanic
+,,282,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Charlotte,282,White
+,,249,Black
+,,254,Hispanic
+,,279,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Chicago,282,White
+,,246,Black
+,,252,Hispanic
+,,271,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Clark County (NV),270,White
+,,241,Black
+,,250,Hispanic
+,,272,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,261,Two or more races
+,Cleveland,254,White
+,,239,Black
+,,240,Hispanic
+,,‡,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Dallas,‡,White
+,,234,Black
+,,242,Hispanic
+,,‡,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Denver,286,White
+,,243,Black
+,,246,Hispanic
+,,‡,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Detroit,‡,White
+,,229,Black
+,,245,Hispanic
+,,‡,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,District of Columbia (DCPS),300,White
+,,239,Black
+,,247,Hispanic
+,,‡,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Duval County (FL),267,White
+,,248,Black
+,,256,Hispanic
+,,‡,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Fort Worth (TX),262,White
+,,232,Black
+,,243,Hispanic
+,,‡,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Fresno,253,White
+,,231,Black
+,,240,Hispanic
+,,255,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Guilford County (NC),273,White
+,,244,Black
+,,256,Hispanic
+,,272,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Hillsborough County (FL),275,White
+,,247,Black
+,,251,Hispanic
+,,‡,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Houston,276,White
+,,239,Black
+,,247,Hispanic
+,,‡,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Jefferson County (KY),273,White
+,,239,Black
+,,261,Hispanic
+,,‡,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Los Angeles,272,White
+,,236,Black
+,,244,Hispanic
+,,274,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Miami-Dade,276,White
+,,246,Black
+,,264,Hispanic
+,,‡,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Milwaukee,267,White
+,,228,Black
+,,248,Hispanic
+,,246,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,New York City,275,White
+,,242,Black
+,,249,Hispanic
+,,267,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races
+,Philadelphia,260,White
+,,238,Black
+,,233,Hispanic
+,,266,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,240,Two or more races
+,San Diego,280,White
+,,245,Black
+,,254,Hispanic
+,,276,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,277,Two or more races
+,Shelby County (TN),274,White
+,,244,Black
+,,254,Hispanic
+,,‡,Asian/Pacific Islander
+,,‡,American Indian/Alaska Native
+,,‡,Two or more races

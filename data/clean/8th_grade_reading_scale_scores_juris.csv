@@ -1,337 +1,496 @@
-year,jurisdiction,race_ethnicity_used_to_report_trends_school_reported,average_scale_score
-2022,National,White,268
-2022,National,Black,244
-2022,National,Hispanic,251
-2022,National,Asian/Pacific Islander,281
-2022,National,American Indian/Alaska Native,246
-2022,National,Two or more races,265
-2022,Albuquerque,White,274
-2022,Albuquerque,Black,‡
-2022,Albuquerque,Hispanic,241
-2022,Albuquerque,Asian/Pacific Islander,‡
-2022,Albuquerque,American Indian/Alaska Native,‡
-2022,Albuquerque,Two or more races,‡
-2022,Atlanta,White,296
-2022,Atlanta,Black,243
-2022,Atlanta,Hispanic,‡
-2022,Atlanta,Asian/Pacific Islander,‡
-2022,Atlanta,American Indian/Alaska Native,‡
-2022,Atlanta,Two or more races,‡
-2022,Austin,White,273
-2022,Austin,Black,‡
-2022,Austin,Hispanic,242
-2022,Austin,Asian/Pacific Islander,‡
-2022,Austin,American Indian/Alaska Native,‡
-2022,Austin,Two or more races,‡
-2022,Baltimore City,White,‡
-2022,Baltimore City,Black,237
-2022,Baltimore City,Hispanic,240
-2022,Baltimore City,Asian/Pacific Islander,‡
-2022,Baltimore City,American Indian/Alaska Native,‡
-2022,Baltimore City,Two or more races,‡
-2022,Boston,White,286
-2022,Boston,Black,242
-2022,Boston,Hispanic,245
-2022,Boston,Asian/Pacific Islander,281
-2022,Boston,American Indian/Alaska Native,‡
-2022,Boston,Two or more races,‡
-2022,Charlotte,White,277
-2022,Charlotte,Black,245
-2022,Charlotte,Hispanic,248
-2022,Charlotte,Asian/Pacific Islander,294
-2022,Charlotte,American Indian/Alaska Native,‡
-2022,Charlotte,Two or more races,‡
-2022,Chicago,White,270
-2022,Chicago,Black,240
-2022,Chicago,Hispanic,254
-2022,Chicago,Asian/Pacific Islander,269
-2022,Chicago,American Indian/Alaska Native,‡
-2022,Chicago,Two or more races,‡
-2022,Clark County (NV),White,268
-2022,Clark County (NV),Black,241
-2022,Clark County (NV),Hispanic,250
-2022,Clark County (NV),Asian/Pacific Islander,276
-2022,Clark County (NV),American Indian/Alaska Native,‡
-2022,Clark County (NV),Two or more races,267
-2022,Cleveland,White,251
-2022,Cleveland,Black,231
-2022,Cleveland,Hispanic,228
-2022,Cleveland,Asian/Pacific Islander,‡
-2022,Cleveland,American Indian/Alaska Native,‡
-2022,Cleveland,Two or more races,‡
-2022,Dallas,White,‡
-2022,Dallas,Black,232
-2022,Dallas,Hispanic,241
-2022,Dallas,Asian/Pacific Islander,‡
-2022,Dallas,American Indian/Alaska Native,‡
-2022,Dallas,Two or more races,‡
-2022,Denver,White,284
-2022,Denver,Black,244
-2022,Denver,Hispanic,243
-2022,Denver,Asian/Pacific Islander,‡
-2022,Denver,American Indian/Alaska Native,‡
-2022,Denver,Two or more races,‡
-2022,Detroit,White,‡
-2022,Detroit,Black,225
-2022,Detroit,Hispanic,236
-2022,Detroit,Asian/Pacific Islander,‡
-2022,Detroit,American Indian/Alaska Native,‡
-2022,Detroit,Two or more races,‡
-2022,District of Columbia (DCPS),White,292
-2022,District of Columbia (DCPS),Black,241
-2022,District of Columbia (DCPS),Hispanic,241
-2022,District of Columbia (DCPS),Asian/Pacific Islander,‡
-2022,District of Columbia (DCPS),American Indian/Alaska Native,‡
-2022,District of Columbia (DCPS),Two or more races,‡
-2022,Duval County (FL),White,273
-2022,Duval County (FL),Black,246
-2022,Duval County (FL),Hispanic,250
-2022,Duval County (FL),Asian/Pacific Islander,‡
-2022,Duval County (FL),American Indian/Alaska Native,‡
-2022,Duval County (FL),Two or more races,‡
-2022,Fort Worth (TX),White,271
-2022,Fort Worth (TX),Black,233
-2022,Fort Worth (TX),Hispanic,240
-2022,Fort Worth (TX),Asian/Pacific Islander,‡
-2022,Fort Worth (TX),American Indian/Alaska Native,‡
-2022,Fort Worth (TX),Two or more races,‡
-2022,Fresno,White,—
-2022,Fresno,Black,—
-2022,Fresno,Hispanic,—
-2022,Fresno,Asian/Pacific Islander,—
-2022,Fresno,American Indian/Alaska Native,—
-2022,Fresno,Two or more races,—
-2022,Guilford County (NC),White,266
-2022,Guilford County (NC),Black,240
-2022,Guilford County (NC),Hispanic,249
-2022,Guilford County (NC),Asian/Pacific Islander,‡
-2022,Guilford County (NC),American Indian/Alaska Native,‡
-2022,Guilford County (NC),Two or more races,‡
-2022,Hillsborough County (FL),White,268
-2022,Hillsborough County (FL),Black,243
-2022,Hillsborough County (FL),Hispanic,255
-2022,Hillsborough County (FL),Asian/Pacific Islander,‡
-2022,Hillsborough County (FL),American Indian/Alaska Native,‡
-2022,Hillsborough County (FL),Two or more races,‡
-2022,Houston,White,275
-2022,Houston,Black,236
-2022,Houston,Hispanic,244
-2022,Houston,Asian/Pacific Islander,‡
-2022,Houston,American Indian/Alaska Native,‡
-2022,Houston,Two or more races,‡
-2022,Jefferson County (KY),White,266
-2022,Jefferson County (KY),Black,238
-2022,Jefferson County (KY),Hispanic,251
-2022,Jefferson County (KY),Asian/Pacific Islander,‡
-2022,Jefferson County (KY),American Indian/Alaska Native,‡
-2022,Jefferson County (KY),Two or more races,‡
-2022,Los Angeles,White,284
-2022,Los Angeles,Black,253
-2022,Los Angeles,Hispanic,250
-2022,Los Angeles,Asian/Pacific Islander,278
-2022,Los Angeles,American Indian/Alaska Native,‡
-2022,Los Angeles,Two or more races,‡
-2022,Miami-Dade,White,285
-2022,Miami-Dade,Black,255
-2022,Miami-Dade,Hispanic,262
-2022,Miami-Dade,Asian/Pacific Islander,‡
-2022,Miami-Dade,American Indian/Alaska Native,‡
-2022,Miami-Dade,Two or more races,‡
-2022,Milwaukee,White,266
-2022,Milwaukee,Black,227
-2022,Milwaukee,Hispanic,242
-2022,Milwaukee,Asian/Pacific Islander,259
-2022,Milwaukee,American Indian/Alaska Native,‡
-2022,Milwaukee,Two or more races,‡
-2022,New York City,White,278
-2022,New York City,Black,242
-2022,New York City,Hispanic,244
-2022,New York City,Asian/Pacific Islander,275
-2022,New York City,American Indian/Alaska Native,‡
-2022,New York City,Two or more races,‡
-2022,Philadelphia,White,255
-2022,Philadelphia,Black,238
-2022,Philadelphia,Hispanic,231
-2022,Philadelphia,Asian/Pacific Islander,275
-2022,Philadelphia,American Indian/Alaska Native,‡
-2022,Philadelphia,Two or more races,‡
-2022,San Diego,White,278
-2022,San Diego,Black,‡
-2022,San Diego,Hispanic,249
-2022,San Diego,Asian/Pacific Islander,279
-2022,San Diego,American Indian/Alaska Native,‡
-2022,San Diego,Two or more races,‡
-2022,Shelby County (TN),White,‡
-2022,Shelby County (TN),Black,240
-2022,Shelby County (TN),Hispanic,244
-2022,Shelby County (TN),Asian/Pacific Islander,‡
-2022,Shelby County (TN),American Indian/Alaska Native,‡
-2022,Shelby County (TN),Two or more races,‡
-2019,National,White,272
-2019,National,Black,244
-2019,National,Hispanic,252
-2019,National,Asian/Pacific Islander,281
-2019,National,American Indian/Alaska Native,248
-2019,National,Two or more races,267
-2019,Albuquerque,White,267
-2019,Albuquerque,Black,‡
-2019,Albuquerque,Hispanic,243
-2019,Albuquerque,Asian/Pacific Islander,‡
-2019,Albuquerque,American Indian/Alaska Native,232
-2019,Albuquerque,Two or more races,‡
-2019,Atlanta,White,291
-2019,Atlanta,Black,247
-2019,Atlanta,Hispanic,252
-2019,Atlanta,Asian/Pacific Islander,‡
-2019,Atlanta,American Indian/Alaska Native,‡
-2019,Atlanta,Two or more races,‡
-2019,Austin,White,280
-2019,Austin,Black,237
-2019,Austin,Hispanic,244
-2019,Austin,Asian/Pacific Islander,‡
-2019,Austin,American Indian/Alaska Native,‡
-2019,Austin,Two or more races,‡
-2019,Baltimore City,White,274
-2019,Baltimore City,Black,237
-2019,Baltimore City,Hispanic,233
-2019,Baltimore City,Asian/Pacific Islander,‡
-2019,Baltimore City,American Indian/Alaska Native,‡
-2019,Baltimore City,Two or more races,‡
-2019,Boston,White,282
-2019,Boston,Black,250
-2019,Boston,Hispanic,246
-2019,Boston,Asian/Pacific Islander,282
-2019,Boston,American Indian/Alaska Native,‡
-2019,Boston,Two or more races,‡
-2019,Charlotte,White,282
-2019,Charlotte,Black,249
-2019,Charlotte,Hispanic,254
-2019,Charlotte,Asian/Pacific Islander,279
-2019,Charlotte,American Indian/Alaska Native,‡
-2019,Charlotte,Two or more races,‡
-2019,Chicago,White,282
-2019,Chicago,Black,246
-2019,Chicago,Hispanic,252
-2019,Chicago,Asian/Pacific Islander,271
-2019,Chicago,American Indian/Alaska Native,‡
-2019,Chicago,Two or more races,‡
-2019,Clark County (NV),White,270
-2019,Clark County (NV),Black,241
-2019,Clark County (NV),Hispanic,250
-2019,Clark County (NV),Asian/Pacific Islander,272
-2019,Clark County (NV),American Indian/Alaska Native,‡
-2019,Clark County (NV),Two or more races,261
-2019,Cleveland,White,254
-2019,Cleveland,Black,239
-2019,Cleveland,Hispanic,240
-2019,Cleveland,Asian/Pacific Islander,‡
-2019,Cleveland,American Indian/Alaska Native,‡
-2019,Cleveland,Two or more races,‡
-2019,Dallas,White,‡
-2019,Dallas,Black,234
-2019,Dallas,Hispanic,242
-2019,Dallas,Asian/Pacific Islander,‡
-2019,Dallas,American Indian/Alaska Native,‡
-2019,Dallas,Two or more races,‡
-2019,Denver,White,286
-2019,Denver,Black,243
-2019,Denver,Hispanic,246
-2019,Denver,Asian/Pacific Islander,‡
-2019,Denver,American Indian/Alaska Native,‡
-2019,Denver,Two or more races,‡
-2019,Detroit,White,‡
-2019,Detroit,Black,229
-2019,Detroit,Hispanic,245
-2019,Detroit,Asian/Pacific Islander,‡
-2019,Detroit,American Indian/Alaska Native,‡
-2019,Detroit,Two or more races,‡
-2019,District of Columbia (DCPS),White,300
-2019,District of Columbia (DCPS),Black,239
-2019,District of Columbia (DCPS),Hispanic,247
-2019,District of Columbia (DCPS),Asian/Pacific Islander,‡
-2019,District of Columbia (DCPS),American Indian/Alaska Native,‡
-2019,District of Columbia (DCPS),Two or more races,‡
-2019,Duval County (FL),White,267
-2019,Duval County (FL),Black,248
-2019,Duval County (FL),Hispanic,256
-2019,Duval County (FL),Asian/Pacific Islander,‡
-2019,Duval County (FL),American Indian/Alaska Native,‡
-2019,Duval County (FL),Two or more races,‡
-2019,Fort Worth (TX),White,262
-2019,Fort Worth (TX),Black,232
-2019,Fort Worth (TX),Hispanic,243
-2019,Fort Worth (TX),Asian/Pacific Islander,‡
-2019,Fort Worth (TX),American Indian/Alaska Native,‡
-2019,Fort Worth (TX),Two or more races,‡
-2019,Fresno,White,253
-2019,Fresno,Black,231
-2019,Fresno,Hispanic,240
-2019,Fresno,Asian/Pacific Islander,255
-2019,Fresno,American Indian/Alaska Native,‡
-2019,Fresno,Two or more races,‡
-2019,Guilford County (NC),White,273
-2019,Guilford County (NC),Black,244
-2019,Guilford County (NC),Hispanic,256
-2019,Guilford County (NC),Asian/Pacific Islander,272
-2019,Guilford County (NC),American Indian/Alaska Native,‡
-2019,Guilford County (NC),Two or more races,‡
-2019,Hillsborough County (FL),White,275
-2019,Hillsborough County (FL),Black,247
-2019,Hillsborough County (FL),Hispanic,251
-2019,Hillsborough County (FL),Asian/Pacific Islander,‡
-2019,Hillsborough County (FL),American Indian/Alaska Native,‡
-2019,Hillsborough County (FL),Two or more races,‡
-2019,Houston,White,276
-2019,Houston,Black,239
-2019,Houston,Hispanic,247
-2019,Houston,Asian/Pacific Islander,‡
-2019,Houston,American Indian/Alaska Native,‡
-2019,Houston,Two or more races,‡
-2019,Jefferson County (KY),White,273
-2019,Jefferson County (KY),Black,239
-2019,Jefferson County (KY),Hispanic,261
-2019,Jefferson County (KY),Asian/Pacific Islander,‡
-2019,Jefferson County (KY),American Indian/Alaska Native,‡
-2019,Jefferson County (KY),Two or more races,‡
-2019,Los Angeles,White,272
-2019,Los Angeles,Black,236
-2019,Los Angeles,Hispanic,244
-2019,Los Angeles,Asian/Pacific Islander,274
-2019,Los Angeles,American Indian/Alaska Native,‡
-2019,Los Angeles,Two or more races,‡
-2019,Miami-Dade,White,276
-2019,Miami-Dade,Black,246
-2019,Miami-Dade,Hispanic,264
-2019,Miami-Dade,Asian/Pacific Islander,‡
-2019,Miami-Dade,American Indian/Alaska Native,‡
-2019,Miami-Dade,Two or more races,‡
-2019,Milwaukee,White,267
-2019,Milwaukee,Black,228
-2019,Milwaukee,Hispanic,248
-2019,Milwaukee,Asian/Pacific Islander,246
-2019,Milwaukee,American Indian/Alaska Native,‡
-2019,Milwaukee,Two or more races,‡
-2019,New York City,White,275
-2019,New York City,Black,242
-2019,New York City,Hispanic,249
-2019,New York City,Asian/Pacific Islander,267
-2019,New York City,American Indian/Alaska Native,‡
-2019,New York City,Two or more races,‡
-2019,Philadelphia,White,260
-2019,Philadelphia,Black,238
-2019,Philadelphia,Hispanic,233
-2019,Philadelphia,Asian/Pacific Islander,266
-2019,Philadelphia,American Indian/Alaska Native,‡
-2019,Philadelphia,Two or more races,240
-2019,San Diego,White,280
-2019,San Diego,Black,245
-2019,San Diego,Hispanic,254
-2019,San Diego,Asian/Pacific Islander,276
-2019,San Diego,American Indian/Alaska Native,‡
-2019,San Diego,Two or more races,277
-2019,Shelby County (TN),White,274
-2019,Shelby County (TN),Black,244
-2019,Shelby County (TN),Hispanic,254
-2019,Shelby County (TN),Asian/Pacific Islander,‡
-2019,Shelby County (TN),American Indian/Alaska Native,‡
-2019,Shelby County (TN),Two or more races,‡
+year,jurisdiction,average_scale_score,race_ethnicity_used_to_report_trends_school_reported
+2024,Albuquerque,‡,American Indian/Alaska Native
+2024,Atlanta,‡,American Indian/Alaska Native
+2024,Austin,‡,American Indian/Alaska Native
+2024,Baltimore,‡,American Indian/Alaska Native
+2024,Boston,‡,American Indian/Alaska Native
+2024,Charlotte,‡,American Indian/Alaska Native
+2024,Chicago,‡,American Indian/Alaska Native
+2024,Clark County (NV),‡,American Indian/Alaska Native
+2024,Cleveland,‡,American Indian/Alaska Native
+2024,Dallas,‡,American Indian/Alaska Native
+2024,Denver,‡,American Indian/Alaska Native
+2024,Detroit,‡,American Indian/Alaska Native
+2024,District of Columbia (DCPS),‡,American Indian/Alaska Native
+2024,Duval County (FL),‡,American Indian/Alaska Native
+2024,Fort Worth,‡,American Indian/Alaska Native
+2024,Guilford County (NC),‡,American Indian/Alaska Native
+2024,Hillsborough County (FL),‡,American Indian/Alaska Native
+2024,Houston,‡,American Indian/Alaska Native
+2024,Jefferson County (KY),‡,American Indian/Alaska Native
+2024,Los Angeles,‡,American Indian/Alaska Native
+2024,Miami,‡,American Indian/Alaska Native
+2024,Milwaukee,‡,American Indian/Alaska Native
+2024,New York City,‡,American Indian/Alaska Native
+2024,Orange County (FL),‡,American Indian/Alaska Native
+2024,Philadelphia,‡,American Indian/Alaska Native
+2024,San Diego,‡,American Indian/Alaska Native
+2024,Albuquerque,‡,Asian/Pacific Islander
+2024,Atlanta,‡,Asian/Pacific Islander
+2024,Austin,‡,Asian/Pacific Islander
+2024,Baltimore,‡,Asian/Pacific Islander
+2024,Boston,‡,Asian/Pacific Islander
+2024,Charlotte,285.871281,Asian/Pacific Islander
+2024,Chicago,‡,Asian/Pacific Islander
+2024,Clark County (NV),262.764595,Asian/Pacific Islander
+2024,Cleveland,‡,Asian/Pacific Islander
+2024,Dallas,‡,Asian/Pacific Islander
+2024,Denver,‡,Asian/Pacific Islander
+2024,Detroit,‡,Asian/Pacific Islander
+2024,District of Columbia (DCPS),‡,Asian/Pacific Islander
+2024,Duval County (FL),‡,Asian/Pacific Islander
+2024,Fort Worth,‡,Asian/Pacific Islander
+2024,Guilford County (NC),‡,Asian/Pacific Islander
+2024,Hillsborough County (FL),‡,Asian/Pacific Islander
+2024,Houston,279.811179,Asian/Pacific Islander
+2024,Jefferson County (KY),‡,Asian/Pacific Islander
+2024,Los Angeles,293.260941,Asian/Pacific Islander
+2024,Miami,‡,Asian/Pacific Islander
+2024,Milwaukee,250.901671,Asian/Pacific Islander
+2024,New York City,274.082319,Asian/Pacific Islander
+2024,Orange County (FL),‡,Asian/Pacific Islander
+2024,Philadelphia,270.66796,Asian/Pacific Islander
+2024,San Diego,278.800156,Asian/Pacific Islander
+2024,Albuquerque,‡,Black
+2024,Atlanta,241.968686,Black
+2024,Austin,‡,Black
+2024,Baltimore,238.214145,Black
+2024,Boston,238.814776,Black
+2024,Charlotte,245.63988,Black
+2024,Chicago,243.588204,Black
+2024,Clark County (NV),239.20869,Black
+2024,Cleveland,230.231412,Black
+2024,Dallas,236.416774,Black
+2024,Denver,253.228784,Black
+2024,Detroit,228.167494,Black
+2024,District of Columbia (DCPS),240.657336,Black
+2024,Duval County (FL),242.933595,Black
+2024,Fort Worth,231.950524,Black
+2024,Guilford County (NC),239.349501,Black
+2024,Hillsborough County (FL),242.479112,Black
+2024,Houston,239.948794,Black
+2024,Jefferson County (KY),233.380858,Black
+2024,Los Angeles,243.611862,Black
+2024,Miami,244.078499,Black
+2024,Milwaukee,226.471374,Black
+2024,New York City,246.417105,Black
+2024,Orange County (FL),240.567189,Black
+2024,Philadelphia,235.861622,Black
+2024,San Diego,‡,Black
+2024,Albuquerque,236.54053,Hispanic
+2024,Atlanta,249.076911,Hispanic
+2024,Austin,236.207519,Hispanic
+2024,Baltimore,229.569643,Hispanic
+2024,Boston,237.503061,Hispanic
+2024,Charlotte,238.966878,Hispanic
+2024,Chicago,253.736011,Hispanic
+2024,Clark County (NV),243.075991,Hispanic
+2024,Cleveland,226.911603,Hispanic
+2024,Dallas,242.013641,Hispanic
+2024,Denver,243.441147,Hispanic
+2024,Detroit,233.130216,Hispanic
+2024,District of Columbia (DCPS),243.273294,Hispanic
+2024,Duval County (FL),232.54454,Hispanic
+2024,Fort Worth,235.979369,Hispanic
+2024,Guilford County (NC),246.33797,Hispanic
+2024,Hillsborough County (FL),247.136968,Hispanic
+2024,Houston,242.670415,Hispanic
+2024,Jefferson County (KY),240.478131,Hispanic
+2024,Los Angeles,241.288,Hispanic
+2024,Miami,256.424716,Hispanic
+2024,Milwaukee,246.239874,Hispanic
+2024,New York City,243.30514,Hispanic
+2024,Orange County (FL),246.267261,Hispanic
+2024,Philadelphia,227.738836,Hispanic
+2024,San Diego,248.535776,Hispanic
+2024,Albuquerque,‡,Two or More Races
+2024,Atlanta,‡,Two or More Races
+2024,Austin,‡,Two or More Races
+2024,Baltimore,‡,Two or More Races
+2024,Boston,‡,Two or More Races
+2024,Charlotte,‡,Two or More Races
+2024,Chicago,‡,Two or More Races
+2024,Clark County (NV),269.468109,Two or More Races
+2024,Cleveland,‡,Two or More Races
+2024,Dallas,‡,Two or More Races
+2024,Denver,‡,Two or More Races
+2024,Detroit,‡,Two or More Races
+2024,District of Columbia (DCPS),‡,Two or More Races
+2024,Duval County (FL),‡,Two or More Races
+2024,Fort Worth,‡,Two or More Races
+2024,Guilford County (NC),‡,Two or More Races
+2024,Hillsborough County (FL),‡,Two or More Races
+2024,Houston,‡,Two or More Races
+2024,Jefferson County (KY),‡,Two or More Races
+2024,Los Angeles,‡,Two or More Races
+2024,Miami,‡,Two or More Races
+2024,Milwaukee,‡,Two or More Races
+2024,New York City,‡,Two or More Races
+2024,Orange County (FL),‡,Two or More Races
+2024,Philadelphia,‡,Two or More Races
+2024,San Diego,273.758931,Two or More Races
+2024,Albuquerque,272,White
+2024,Atlanta,292,White
+2024,Austin,278,White
+2024,Baltimore,‡,White
+2024,Boston,280,White
+2024,Charlotte,276,White
+2024,Chicago,277,White
+2024,Clark County (NV),262,White
+2024,Cleveland,237,White
+2024,Dallas,‡,White
+2024,Denver,285,White
+2024,Detroit,‡,White
+2024,District of Columbia (DCPS),306,White
+2024,Duval County (FL),258,White
+2024,Fort Worth,260,White
+2024,Guilford County (NC),273,White
+2024,Hillsborough County (FL),266,White
+2024,Houston,271,White
+2024,Jefferson County (KY),268,White
+2024,Los Angeles,266,White
+2024,Miami,260,White
+2024,Milwaukee,272,White
+2024,New York City,270,White
+2024,Orange County (FL),259,White
+2024,Philadelphia,258,White
+2024,San Diego,284,White
+2024,Nation,243,Black
+2024,Nation,245,Hispanic
+2024,Nation,266,White
+2022,National,268,White
+2022,National,244,Black
+2022,National,251,Hispanic
+2022,National,281,Asian/Pacific Islander
+2022,National,246,American Indian/Alaska Native
+2022,National,265,Two or more races
+2022,Albuquerque,274,White
+2022,Albuquerque,‡,Black
+2022,Albuquerque,241,Hispanic
+2022,Albuquerque,‡,Asian/Pacific Islander
+2022,Albuquerque,‡,American Indian/Alaska Native
+2022,Albuquerque,‡,Two or more races
+2022,Atlanta,296,White
+2022,Atlanta,243,Black
+2022,Atlanta,‡,Hispanic
+2022,Atlanta,‡,Asian/Pacific Islander
+2022,Atlanta,‡,American Indian/Alaska Native
+2022,Atlanta,‡,Two or more races
+2022,Austin,273,White
+2022,Austin,‡,Black
+2022,Austin,242,Hispanic
+2022,Austin,‡,Asian/Pacific Islander
+2022,Austin,‡,American Indian/Alaska Native
+2022,Austin,‡,Two or more races
+2022,Baltimore City,‡,White
+2022,Baltimore City,237,Black
+2022,Baltimore City,240,Hispanic
+2022,Baltimore City,‡,Asian/Pacific Islander
+2022,Baltimore City,‡,American Indian/Alaska Native
+2022,Baltimore City,‡,Two or more races
+2022,Boston,286,White
+2022,Boston,242,Black
+2022,Boston,245,Hispanic
+2022,Boston,281,Asian/Pacific Islander
+2022,Boston,‡,American Indian/Alaska Native
+2022,Boston,‡,Two or more races
+2022,Charlotte,277,White
+2022,Charlotte,245,Black
+2022,Charlotte,248,Hispanic
+2022,Charlotte,294,Asian/Pacific Islander
+2022,Charlotte,‡,American Indian/Alaska Native
+2022,Charlotte,‡,Two or more races
+2022,Chicago,270,White
+2022,Chicago,240,Black
+2022,Chicago,254,Hispanic
+2022,Chicago,269,Asian/Pacific Islander
+2022,Chicago,‡,American Indian/Alaska Native
+2022,Chicago,‡,Two or more races
+2022,Clark County (NV),268,White
+2022,Clark County (NV),241,Black
+2022,Clark County (NV),250,Hispanic
+2022,Clark County (NV),276,Asian/Pacific Islander
+2022,Clark County (NV),‡,American Indian/Alaska Native
+2022,Clark County (NV),267,Two or more races
+2022,Cleveland,251,White
+2022,Cleveland,231,Black
+2022,Cleveland,228,Hispanic
+2022,Cleveland,‡,Asian/Pacific Islander
+2022,Cleveland,‡,American Indian/Alaska Native
+2022,Cleveland,‡,Two or more races
+2022,Dallas,‡,White
+2022,Dallas,232,Black
+2022,Dallas,241,Hispanic
+2022,Dallas,‡,Asian/Pacific Islander
+2022,Dallas,‡,American Indian/Alaska Native
+2022,Dallas,‡,Two or more races
+2022,Denver,284,White
+2022,Denver,244,Black
+2022,Denver,243,Hispanic
+2022,Denver,‡,Asian/Pacific Islander
+2022,Denver,‡,American Indian/Alaska Native
+2022,Denver,‡,Two or more races
+2022,Detroit,‡,White
+2022,Detroit,225,Black
+2022,Detroit,236,Hispanic
+2022,Detroit,‡,Asian/Pacific Islander
+2022,Detroit,‡,American Indian/Alaska Native
+2022,Detroit,‡,Two or more races
+2022,District of Columbia (DCPS),292,White
+2022,District of Columbia (DCPS),241,Black
+2022,District of Columbia (DCPS),241,Hispanic
+2022,District of Columbia (DCPS),‡,Asian/Pacific Islander
+2022,District of Columbia (DCPS),‡,American Indian/Alaska Native
+2022,District of Columbia (DCPS),‡,Two or more races
+2022,Duval County (FL),273,White
+2022,Duval County (FL),246,Black
+2022,Duval County (FL),250,Hispanic
+2022,Duval County (FL),‡,Asian/Pacific Islander
+2022,Duval County (FL),‡,American Indian/Alaska Native
+2022,Duval County (FL),‡,Two or more races
+2022,Fort Worth (TX),271,White
+2022,Fort Worth (TX),233,Black
+2022,Fort Worth (TX),240,Hispanic
+2022,Fort Worth (TX),‡,Asian/Pacific Islander
+2022,Fort Worth (TX),‡,American Indian/Alaska Native
+2022,Fort Worth (TX),‡,Two or more races
+2022,Fresno,—,White
+2022,Fresno,—,Black
+2022,Fresno,—,Hispanic
+2022,Fresno,—,Asian/Pacific Islander
+2022,Fresno,—,American Indian/Alaska Native
+2022,Fresno,—,Two or more races
+2022,Guilford County (NC),266,White
+2022,Guilford County (NC),240,Black
+2022,Guilford County (NC),249,Hispanic
+2022,Guilford County (NC),‡,Asian/Pacific Islander
+2022,Guilford County (NC),‡,American Indian/Alaska Native
+2022,Guilford County (NC),‡,Two or more races
+2022,Hillsborough County (FL),268,White
+2022,Hillsborough County (FL),243,Black
+2022,Hillsborough County (FL),255,Hispanic
+2022,Hillsborough County (FL),‡,Asian/Pacific Islander
+2022,Hillsborough County (FL),‡,American Indian/Alaska Native
+2022,Hillsborough County (FL),‡,Two or more races
+2022,Houston,275,White
+2022,Houston,236,Black
+2022,Houston,244,Hispanic
+2022,Houston,‡,Asian/Pacific Islander
+2022,Houston,‡,American Indian/Alaska Native
+2022,Houston,‡,Two or more races
+2022,Jefferson County (KY),266,White
+2022,Jefferson County (KY),238,Black
+2022,Jefferson County (KY),251,Hispanic
+2022,Jefferson County (KY),‡,Asian/Pacific Islander
+2022,Jefferson County (KY),‡,American Indian/Alaska Native
+2022,Jefferson County (KY),‡,Two or more races
+2022,Los Angeles,284,White
+2022,Los Angeles,253,Black
+2022,Los Angeles,250,Hispanic
+2022,Los Angeles,278,Asian/Pacific Islander
+2022,Los Angeles,‡,American Indian/Alaska Native
+2022,Los Angeles,‡,Two or more races
+2022,Miami-Dade,285,White
+2022,Miami-Dade,255,Black
+2022,Miami-Dade,262,Hispanic
+2022,Miami-Dade,‡,Asian/Pacific Islander
+2022,Miami-Dade,‡,American Indian/Alaska Native
+2022,Miami-Dade,‡,Two or more races
+2022,Milwaukee,266,White
+2022,Milwaukee,227,Black
+2022,Milwaukee,242,Hispanic
+2022,Milwaukee,259,Asian/Pacific Islander
+2022,Milwaukee,‡,American Indian/Alaska Native
+2022,Milwaukee,‡,Two or more races
+2022,New York City,278,White
+2022,New York City,242,Black
+2022,New York City,244,Hispanic
+2022,New York City,275,Asian/Pacific Islander
+2022,New York City,‡,American Indian/Alaska Native
+2022,New York City,‡,Two or more races
+2022,Philadelphia,255,White
+2022,Philadelphia,238,Black
+2022,Philadelphia,231,Hispanic
+2022,Philadelphia,275,Asian/Pacific Islander
+2022,Philadelphia,‡,American Indian/Alaska Native
+2022,Philadelphia,‡,Two or more races
+2022,San Diego,278,White
+2022,San Diego,‡,Black
+2022,San Diego,249,Hispanic
+2022,San Diego,279,Asian/Pacific Islander
+2022,San Diego,‡,American Indian/Alaska Native
+2022,San Diego,‡,Two or more races
+2022,Shelby County (TN),‡,White
+2022,Shelby County (TN),240,Black
+2022,Shelby County (TN),244,Hispanic
+2022,Shelby County (TN),‡,Asian/Pacific Islander
+2022,Shelby County (TN),‡,American Indian/Alaska Native
+2022,Shelby County (TN),‡,Two or more races
+2019,National,272,White
+2019,National,244,Black
+2019,National,252,Hispanic
+2019,National,281,Asian/Pacific Islander
+2019,National,248,American Indian/Alaska Native
+2019,National,267,Two or more races
+2019,Albuquerque,267,White
+2019,Albuquerque,‡,Black
+2019,Albuquerque,243,Hispanic
+2019,Albuquerque,‡,Asian/Pacific Islander
+2019,Albuquerque,232,American Indian/Alaska Native
+2019,Albuquerque,‡,Two or more races
+2019,Atlanta,291,White
+2019,Atlanta,247,Black
+2019,Atlanta,252,Hispanic
+2019,Atlanta,‡,Asian/Pacific Islander
+2019,Atlanta,‡,American Indian/Alaska Native
+2019,Atlanta,‡,Two or more races
+2019,Austin,280,White
+2019,Austin,237,Black
+2019,Austin,244,Hispanic
+2019,Austin,‡,Asian/Pacific Islander
+2019,Austin,‡,American Indian/Alaska Native
+2019,Austin,‡,Two or more races
+2019,Baltimore City,274,White
+2019,Baltimore City,237,Black
+2019,Baltimore City,233,Hispanic
+2019,Baltimore City,‡,Asian/Pacific Islander
+2019,Baltimore City,‡,American Indian/Alaska Native
+2019,Baltimore City,‡,Two or more races
+2019,Boston,282,White
+2019,Boston,250,Black
+2019,Boston,246,Hispanic
+2019,Boston,282,Asian/Pacific Islander
+2019,Boston,‡,American Indian/Alaska Native
+2019,Boston,‡,Two or more races
+2019,Charlotte,282,White
+2019,Charlotte,249,Black
+2019,Charlotte,254,Hispanic
+2019,Charlotte,279,Asian/Pacific Islander
+2019,Charlotte,‡,American Indian/Alaska Native
+2019,Charlotte,‡,Two or more races
+2019,Chicago,282,White
+2019,Chicago,246,Black
+2019,Chicago,252,Hispanic
+2019,Chicago,271,Asian/Pacific Islander
+2019,Chicago,‡,American Indian/Alaska Native
+2019,Chicago,‡,Two or more races
+2019,Clark County (NV),270,White
+2019,Clark County (NV),241,Black
+2019,Clark County (NV),250,Hispanic
+2019,Clark County (NV),272,Asian/Pacific Islander
+2019,Clark County (NV),‡,American Indian/Alaska Native
+2019,Clark County (NV),261,Two or more races
+2019,Cleveland,254,White
+2019,Cleveland,239,Black
+2019,Cleveland,240,Hispanic
+2019,Cleveland,‡,Asian/Pacific Islander
+2019,Cleveland,‡,American Indian/Alaska Native
+2019,Cleveland,‡,Two or more races
+2019,Dallas,‡,White
+2019,Dallas,234,Black
+2019,Dallas,242,Hispanic
+2019,Dallas,‡,Asian/Pacific Islander
+2019,Dallas,‡,American Indian/Alaska Native
+2019,Dallas,‡,Two or more races
+2019,Denver,286,White
+2019,Denver,243,Black
+2019,Denver,246,Hispanic
+2019,Denver,‡,Asian/Pacific Islander
+2019,Denver,‡,American Indian/Alaska Native
+2019,Denver,‡,Two or more races
+2019,Detroit,‡,White
+2019,Detroit,229,Black
+2019,Detroit,245,Hispanic
+2019,Detroit,‡,Asian/Pacific Islander
+2019,Detroit,‡,American Indian/Alaska Native
+2019,Detroit,‡,Two or more races
+2019,District of Columbia (DCPS),300,White
+2019,District of Columbia (DCPS),239,Black
+2019,District of Columbia (DCPS),247,Hispanic
+2019,District of Columbia (DCPS),‡,Asian/Pacific Islander
+2019,District of Columbia (DCPS),‡,American Indian/Alaska Native
+2019,District of Columbia (DCPS),‡,Two or more races
+2019,Duval County (FL),267,White
+2019,Duval County (FL),248,Black
+2019,Duval County (FL),256,Hispanic
+2019,Duval County (FL),‡,Asian/Pacific Islander
+2019,Duval County (FL),‡,American Indian/Alaska Native
+2019,Duval County (FL),‡,Two or more races
+2019,Fort Worth (TX),262,White
+2019,Fort Worth (TX),232,Black
+2019,Fort Worth (TX),243,Hispanic
+2019,Fort Worth (TX),‡,Asian/Pacific Islander
+2019,Fort Worth (TX),‡,American Indian/Alaska Native
+2019,Fort Worth (TX),‡,Two or more races
+2019,Fresno,253,White
+2019,Fresno,231,Black
+2019,Fresno,240,Hispanic
+2019,Fresno,255,Asian/Pacific Islander
+2019,Fresno,‡,American Indian/Alaska Native
+2019,Fresno,‡,Two or more races
+2019,Guilford County (NC),273,White
+2019,Guilford County (NC),244,Black
+2019,Guilford County (NC),256,Hispanic
+2019,Guilford County (NC),272,Asian/Pacific Islander
+2019,Guilford County (NC),‡,American Indian/Alaska Native
+2019,Guilford County (NC),‡,Two or more races
+2019,Hillsborough County (FL),275,White
+2019,Hillsborough County (FL),247,Black
+2019,Hillsborough County (FL),251,Hispanic
+2019,Hillsborough County (FL),‡,Asian/Pacific Islander
+2019,Hillsborough County (FL),‡,American Indian/Alaska Native
+2019,Hillsborough County (FL),‡,Two or more races
+2019,Houston,276,White
+2019,Houston,239,Black
+2019,Houston,247,Hispanic
+2019,Houston,‡,Asian/Pacific Islander
+2019,Houston,‡,American Indian/Alaska Native
+2019,Houston,‡,Two or more races
+2019,Jefferson County (KY),273,White
+2019,Jefferson County (KY),239,Black
+2019,Jefferson County (KY),261,Hispanic
+2019,Jefferson County (KY),‡,Asian/Pacific Islander
+2019,Jefferson County (KY),‡,American Indian/Alaska Native
+2019,Jefferson County (KY),‡,Two or more races
+2019,Los Angeles,272,White
+2019,Los Angeles,236,Black
+2019,Los Angeles,244,Hispanic
+2019,Los Angeles,274,Asian/Pacific Islander
+2019,Los Angeles,‡,American Indian/Alaska Native
+2019,Los Angeles,‡,Two or more races
+2019,Miami-Dade,276,White
+2019,Miami-Dade,246,Black
+2019,Miami-Dade,264,Hispanic
+2019,Miami-Dade,‡,Asian/Pacific Islander
+2019,Miami-Dade,‡,American Indian/Alaska Native
+2019,Miami-Dade,‡,Two or more races
+2019,Milwaukee,267,White
+2019,Milwaukee,228,Black
+2019,Milwaukee,248,Hispanic
+2019,Milwaukee,246,Asian/Pacific Islander
+2019,Milwaukee,‡,American Indian/Alaska Native
+2019,Milwaukee,‡,Two or more races
+2019,New York City,275,White
+2019,New York City,242,Black
+2019,New York City,249,Hispanic
+2019,New York City,267,Asian/Pacific Islander
+2019,New York City,‡,American Indian/Alaska Native
+2019,New York City,‡,Two or more races
+2019,Philadelphia,260,White
+2019,Philadelphia,238,Black
+2019,Philadelphia,233,Hispanic
+2019,Philadelphia,266,Asian/Pacific Islander
+2019,Philadelphia,‡,American Indian/Alaska Native
+2019,Philadelphia,240,Two or more races
+2019,San Diego,280,White
+2019,San Diego,245,Black
+2019,San Diego,254,Hispanic
+2019,San Diego,276,Asian/Pacific Islander
+2019,San Diego,‡,American Indian/Alaska Native
+2019,San Diego,277,Two or more races
+2019,Shelby County (TN),274,White
+2019,Shelby County (TN),244,Black
+2019,Shelby County (TN),254,Hispanic
+2019,Shelby County (TN),‡,Asian/Pacific Islander
+2019,Shelby County (TN),‡,American Indian/Alaska Native
+2019,Shelby County (TN),‡,Two or more races

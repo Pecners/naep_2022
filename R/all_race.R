@@ -1,3 +1,5 @@
+library(tidyverse)
+
 math_8th <- read_csv("data/8th_grade_math_scale_scores_juris.csv", 
                  name_repair = janitor::make_clean_names)
 

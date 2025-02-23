@@ -1,55 +1,84 @@
-﻿Year,Jurisdiction,All students,Average scale score
-2022,National,All students,274
-,Albuquerque,All students,260
-,Atlanta,All students,263
-,Austin,All students,273
-,Baltimore City,All students,245
-,Boston,All students,270
-,Charlotte,All students,278
-,Chicago,All students,263
-,Clark County (NV),All students,267
-,Cleveland,All students,245
-,Dallas,All students,260
-,Denver,All students,265
-,Detroit,All students,238
-,District of Columbia (DCPS),All students,257
-,Duval County (FL),All students,269
-,Fort Worth (TX),All students,259
-,Guilford County (NC),All students,270
-,Hillsborough County (FL),All students,269
-,Houston,All students,265
-,Jefferson County (KY),All students,263
-,Los Angeles,All students,262
-,Miami-Dade,All students,274
-,Milwaukee,All students,246
-,New York City,All students,269
-,Philadelphia,All students,252
-,San Diego,All students,274
-,Shelby County (TN),All students,251
-2019,National,All students,282
-,Albuquerque,All students,267
-,Atlanta,All students,268
-,Austin,All students,282
-,Baltimore City,All students,254
-,Boston,All students,279
-,Charlotte,All students,288
-,Chicago,All students,275
-,Clark County (NV),All students,272
-,Cleveland,All students,253
-,Dallas,All students,264
-,Denver,All students,275
-,Detroit,All students,244
-,District of Columbia (DCPS),All students,269
-,Duval County (FL),All students,274
-,Fort Worth (TX),All students,265
-,Guilford County (NC),All students,280
-,Hillsborough County (FL),All students,276
-,Houston,All students,274
-,Jefferson County (KY),All students,273
-,Los Angeles,All students,261
-,Miami-Dade,All students,276
-,Milwaukee,All students,252
-,New York City,All students,273
-,Philadelphia,All students,256
-,San Diego,All students,283
-,Shelby County (TN),All students,265
+﻿Year,Jurisdiction,All students,Average scale score,,,,,,
+2024,National,All students,272,,,,,,
+,Albuquerque,All students,256,,,,,,
+,Atlanta,All students,256,,,,,,
+,Austin,All students,273,,,,,,
+,Baltimore City,All students,245,,,,,,
+,Boston,All students,264,,,,,,
+,Charlotte,All students,275,,,,,,
+,Chicago,All students,265,,,,,,
+,Clark County (NV),All students,262,,,,,,
+,Cleveland,All students,242,,,,,,
+,Dallas,All students,259,,,,,,
+,Denver,All students,264,,,,,,
+,Detroit,All students,237,,,,,,
+,District of Columbia (DCPS),All students,260,,,,,,
+,Duval County (FL),All students,261,,,,,,
+,Fort Worth (TX),All students,252,,,,,,
+,Fresno,All students,—,,,,,,
+,Guilford County (NC),All students,269,,,,,,
+,Hillsborough County (FL),All students,267,,,,,,
+,Houston,All students,264,,,,,,
+,Jefferson County (KY),All students,256,,,,,,
+,Los Angeles,All students,260,,,,,,
+,Miami-Dade,All students,268,,,,,,
+,Milwaukee,All students,244,,,,,,
+,New York City,All students,267,,,,,,
+,Orange County (FL),All students,266,,,,,,
+,Philadelphia,All students,252,,,,,,
+,San Diego,All students,275,,,,,,
+,Shelby County (TN),All students,—,,,,,,
+2022,National,All students,274,,,,,,
+,Albuquerque,All students,260,,,,,,
+,Atlanta,All students,263,,,,,,
+,Austin,All students,273,,,,,,
+,Baltimore City,All students,245,,,,,,
+,Boston,All students,270,,,,,,
+,Charlotte,All students,278,,,,,,
+,Chicago,All students,263,,,,,,
+,Clark County (NV),All students,267,,,,,,
+,Cleveland,All students,245,,,,,,
+,Dallas,All students,260,,,,,,
+,Denver,All students,265,,,,,,
+,Detroit,All students,238,,,,,,
+,District of Columbia (DCPS),All students,257,,,,,,
+,Duval County (FL),All students,269,,,,,,
+,Fort Worth (TX),All students,259,,,,,,
+,Guilford County (NC),All students,270,,,,,,
+,Hillsborough County (FL),All students,269,,,,,,
+,Houston,All students,265,,,,,,
+,Jefferson County (KY),All students,263,,,,,,
+,Los Angeles,All students,262,,,,,,
+,Miami-Dade,All students,274,,,,,,
+,Milwaukee,All students,246,,,,,,
+,New York City,All students,269,,,,,,
+,Philadelphia,All students,252,,,,,,
+,San Diego,All students,274,,,,,,
+,Shelby County (TN),All students,251,,,,,,
+2019,National,All students,282,,,,,,
+,Albuquerque,All students,267,,,,,,
+,Atlanta,All students,268,,,,,,
+,Austin,All students,282,,,,,,
+,Baltimore City,All students,254,,,,,,
+,Boston,All students,279,,,,,,
+,Charlotte,All students,288,,,,,,
+,Chicago,All students,275,,,,,,
+,Clark County (NV),All students,272,,,,,,
+,Cleveland,All students,253,,,,,,
+,Dallas,All students,264,,,,,,
+,Denver,All students,275,,,,,,
+,Detroit,All students,244,,,,,,
+,District of Columbia (DCPS),All students,269,,,,,,
+,Duval County (FL),All students,274,,,,,,
+,Fort Worth (TX),All students,265,,,,,,
+,Guilford County (NC),All students,280,,,,,,
+,Hillsborough County (FL),All students,276,,,,,,
+,Houston,All students,274,,,,,,
+,Jefferson County (KY),All students,273,,,,,,
+,Los Angeles,All students,261,,,,,,
+,Miami-Dade,All students,276,,,,,,
+,Milwaukee,All students,252,,,,,,
+,New York City,All students,273,,,,,,
+,Philadelphia,All students,256,,,,,,
+,San Diego,All students,283,,,,,,
+,Shelby County (TN),All students,265,,,,,,
